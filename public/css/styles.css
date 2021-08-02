@@ -1,0 +1,48 @@
+.sidenav li a{
+    color: white;
+}
+
+#title{
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#title2{
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.button input{
+    background-color: #ff6e40;
+}
+
+.parrafo{
+    font-size: 30px;
+}
+
+.img-size{
+    width: 100%;
+    height: 250px;
+    margin-top: 15px;
+}
+
+.img-size2{
+    margin-top: 15px;
+    width: 50%;
+    height: 280px;
+    position: relative;
+    left: 25%;
+}
+
+.publicidad{
+    font-size: 40px;
+    color: #ff6e40 ;
+    text-align: center;
+}
+
+.card-image img{
+    width: 100%;
+    height: 350px;
+}
